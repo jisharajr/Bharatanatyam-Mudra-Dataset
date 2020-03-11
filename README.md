@@ -1,7 +1,7 @@
 # Bharatanatyam-Mudra-Dataset
 The dataset contains 28,431 images of hand gestures or mudras of Bharatanatyam, an Indian classical dance form. These images were 
 obtained from 15 volunteers in a studio enviornment. The dataset has 15,396 single hand gesture images and 13,035 double hand gesture 
-images. All the images have been resized.
+images. All the images have been resized. If original sized images are required please contact Jisha Raj R,  jisharajr@gmail.com. The data was collected as a part of Ph.D work done under the guidance of Dr.Sunil T.T, Professor, College Of Engineering, Attingal, Thiruvananthapuram, Kerala, India. 
 
 
 |  Single Hand Gestures (Asamyukta Hastas) | Number of images |
